@@ -183,7 +183,7 @@ sua posição */
 /* telas de até 1050px */
 @media (max-width: 1050px) {
     .instagram-wrapper {
-        width: 90%;
+        width: 80%;
     }
 
     .instagram-phone{
@@ -192,7 +192,7 @@ sua posição */
 }
 
 /* Para telas de smartphone até 650px */
-@media (max-width: 770px) {
+@media (max-width: 900px) {
     body {
         background-color: #ffffff;
     }
@@ -217,4 +217,20 @@ sua posição */
         border: 1px solid transparent;
     }
 
+    .download {
+        width: 80%;
+    }
+
 }
+
+@media (max-width: 600px) {
+
+    .download {
+        width: 80%;
+    }
+    
+}
+
+
+
+
